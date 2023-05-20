@@ -25,6 +25,7 @@ except Exception as e:
 """
 Son los Tipos de datos  y referencias para capa abstracta
     este es otro ejemplo
+    este ejemplo es para verificar si impacta en los dos repositorios
 types = {
     'boolean': 'CHAR(1)',
     'string': 'VARCHAR(%(length)s)',
